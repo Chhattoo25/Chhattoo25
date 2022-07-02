@@ -35,7 +35,7 @@ You can click the Preview link to take a look at your changes.
  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/ChhatrapalAhir3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="prajwal_jais" height="30" width="40" /></a>
+<a href="https://twitter.com/ChhatrapalAhir3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="chhatrapal" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/chhatrapal-ahirwar-12b9aa217" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prajwal jaiswal" height="30" width="40" /></a>
 <a href="https://instagram.com/chhattoo2523" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="the_defamed_achiever" height="30" width="40" /></a>
 </p>

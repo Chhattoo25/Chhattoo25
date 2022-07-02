@@ -10,7 +10,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Chhattoo25" alt="Chhattoo25" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/ChhatrapalAhir3" target="blank"><img src="https://img.shields.io/twitter/follow/prajwal_jais?logo=twitter&style=for-the-badge" alt="Chhatrapal" /></a> </p>
+<p align="left"> <a href="https://twitter.com/ChhatrapalAhir3" target="blank"><img src="https://img.shields.io/twitter/follow/ChhatrapalAhir3?logo=twitter&style=for-the-badge" alt="Chhatrapal" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/Chhattoo25?tab=repositories](https://github.com/Chhattoo25?tab=repositories)
 

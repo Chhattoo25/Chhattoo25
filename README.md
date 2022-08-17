@@ -6,7 +6,14 @@
 
 ___
 - About
+
+
 <h3 align="center">A passionate full-stack developer from India</h3>
+<h2>Observant and detail-oriented aspiring fullstack developer with a specialization in MERN
+stack. Self-motivated and curious, with a keen
+interest in building user-centric products.
+Looking forward to honing my skills in a
+challenging work environment.</h2>
 
 ___
 - Profile views
@@ -80,5 +87,6 @@ ___
 - Languages 
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Chhattoo25&langs_count=8&layout=compact&theme=gruvbox)](https://github.com/Chhattoo25/github-readme-stats)
+
 
 ___

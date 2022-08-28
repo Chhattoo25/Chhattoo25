@@ -32,9 +32,9 @@ ___
 
 
 ___
-- 👨‍💻 All of my projects are available at [https://github.com/Chhattoo25?tab=repositories](https://github.com/Chhattoo25?tab=repositories)
+- 👨‍💻 All of my projects are available at [Repositories](https://github.com/Chhattoo25?tab=repositories)
 
-- 💬 Ask me about **JavaScript, React, NodeJS, MongoDB, Express**
+- 💬 Ask me about **JavaScript, React, Redux,NodeJS, MongoDB, Express**
 
 - 📫 How to reach me **chhatrapal25825@gmail.com**
 
